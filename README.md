@@ -4,7 +4,7 @@ This repository distributes updates for the main software.
 
 ## About
 
-Theta Launcher is a desktop launcher for ReversedRooms servers. It brings installing, updating, running and managing local server emulators into a single window, so you don't have to handle each step by hand.
+Theta Launcher is a desktop launcher for RR servers. It brings installing, updating, running and managing local server emulators into a single window, so you don't have to handle each step by hand.
 
 ## Features
 
