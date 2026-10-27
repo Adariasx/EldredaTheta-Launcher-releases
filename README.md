@@ -1,4 +1,4 @@
-# EldredaTheta-Launcher-releases
+# EldredaTheta Launcher
 
 This repository distributes updates for the main software.
 
