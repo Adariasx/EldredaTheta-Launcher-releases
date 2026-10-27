@@ -23,4 +23,4 @@ Each release is tagged with the version number (for example, V1.11.0). The launc
 
 ## Notes
 
-This launcher is a personal project and is not affiliated with the game's developers. It is intended for private use.
+This launcher is a personal project and is not affiliated with the leaker's developers. It is intended for private use.
