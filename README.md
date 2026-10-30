@@ -19,8 +19,8 @@ Theta Launcher is a desktop launcher for RR servers. It brings installing, updat
 
 ## Updates
 
-Each release is tagged with the version number (for example, V1.11.0). The launcher reads the latest release from this repository and offers to update when a newer version is available.
+Each release is tagged with the version number. The launcher reads the latest release from this repository and offers to update when a newer version is available.
 
 ## Notes
 
-This launcher is a personal project and is not affiliated with the leaker's developers. It is intended for private use.
+This launcher is a personal project and is not affiliated with the leaker's developers. It is intended for private / friends use.
